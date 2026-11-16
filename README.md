@@ -1,8 +1,5 @@
 # AI-Based Crop-Safe Path Planning for an Autonomous Potato-Field Robot
 
-**Subject:** Artificial Intelligence | **Institution:** IIIT Nagpur | **Instructor:** jchakole@iiitn.ac.in
-
----
 
 ## Group Members
 
