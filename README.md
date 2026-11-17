@@ -194,11 +194,3 @@ AI_CropSafe_PathPlanning_GroupXX/
 ```
 
 ---
-
-## Submission
-
-| | |
-|-|-|
-| **To** | jchakole@iiitn.ac.in |
-| **Subject** | AI Group Coding Assignment Submission – Group XX |
-| **Include** | Group number, names and roll numbers, GitHub link, representative contact |
